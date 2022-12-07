@@ -1,0 +1,1 @@
+print(r"first line A \nsecond line B")   #r = then \n treat like normal word
