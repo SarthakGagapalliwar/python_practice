@@ -13,17 +13,17 @@ print("total is " + str(total) )
 
 
 #str
-# 4 ---> "4"
+# 5 ---> "5"
 
 #int
-#"4"---> 4
+#"5"---> 5
 
 #float
-# "4" ---> 4.0
+# "5" ---> 4.0
 
 
-number1 =str(4)
-number2 = float("44")
+number1 =str(5)
+number2 = float("55")
 number3 = int("33")
 print(number2 + number3) # final value in floot
 
